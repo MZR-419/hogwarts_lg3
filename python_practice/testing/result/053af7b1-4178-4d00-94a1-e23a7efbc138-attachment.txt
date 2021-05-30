@@ -1,0 +1,5 @@
+setup_module:模块级别
+setup_class: 类级别
+step: 测试用例前的准备
+testa
+teardown: 测试用例后的资源释放

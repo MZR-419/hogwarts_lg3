@@ -1,0 +1,4 @@
+setup_class: B类级别
+step: 测试用例前的准备
+testa
+teardown: 测试用例后的资源释放
